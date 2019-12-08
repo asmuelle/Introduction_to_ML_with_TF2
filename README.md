@@ -5,3 +5,6 @@ The notebooks in this repository were built using notebooks from the following r
 
 1. [TensorFlow Docs](https://github.com/tensorflow/docs)
 2. [TensorFlow Examples](https://github.com/tensorflow/examples)
+
+## Run in Colab
+[colab](https://colab.research.google.com/github/asmuelle/Introduction_to_ML_with_TF2/)
